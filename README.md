@@ -125,7 +125,7 @@ circuitos indicados en la figura 1.
       <div class="container mt-5 mb-5">
         <img src="img/diagramas.PNG"
           alt="Digrama del circuito"
-          height="200"
+          height="400"
           style ="float-left ml-4"
         />           
    </div>
