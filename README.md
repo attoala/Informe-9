@@ -13,13 +13,23 @@ Verificar el principio de funcionamiento de un amplificador operacional.
 
 ## MARCO TEÓRICO
 
-## Capacitores y Bobinas.
+“Es un dispositivo amplificador electrónico de alta ganancia acoplado en corriente continua que tiene dos entradas y una salida. En esta configuración, la salida del dispositivo es, generalmente, de cientos de miles de veces mayor que la diferencia de potencial entre sus entradas.”
+Esta es la forma mas general a la que se le puede dar al amplificador, aunque, dependiendo de lo que se use, de forma muy simple se puede considerar como un comparador o seguidor de voltaje o tensión o, como su nombre dice, amplificador tanto inversor como no inversor, etc. Al 
+menos en lo más básico. 
 
-Estos 2 elementos son capaces de almacenar una parte de la energía, además de que hay 2 formas de ver estos elementos en un circuito, de forma ideal y de forma real.
+<section>
+      <div class="container mt-5 mb-5">
+        <img src="img/ca.PNG"
+          alt="Capacitores"
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
 
-**Capacitores (Condensador)**
 
-Es un elemento pasivo de un circuito, que tiene mayor utilidad dentro de un circuito AC ya que si se toma dentro de uno DC se convertirá en un circuito abierto, su medida son los faradios pero se puede transformar en reactancia para agilitar el cálculo con la fórmula: X_c=-1/jwF donde j es muestra de número complejo, w en rad/seg, F en faradios y se mide en ohmios , la característica del capacitor es que este se vuelve dependiente de la frecuencia del generador, entre mas Hz posea esta fuente el capacitor empezara ca comportarse como un cortocircuito, lo contrario a  cuando está en corriente DC. Mientras esta en el dominio del tiempo, su forma de calcular su intensidad es: i=F ∂v/∂t
+Para este dispositivo hay muchas formas, tamaño y usos; Además de que ya tiene mucho tiempo desde su invención hace ya más de medio siglo.
+Existen varios tipos de amplificadores, el mas conocido es el 741.
 
 <section>
       <div class="container mt-5 mb-5">
@@ -32,22 +42,23 @@ Es un elemento pasivo de un circuito, que tiene mayor utilidad dentro de un circ
    </section>
    
 
-**Bobinas (Inductor)**
+Dentro de los cálculos con transformadores, existe la particularidad de que se puede tomar como un ideal, donde Rin es infinita por lo tanto los voltajes de v+/- será 0, y eso seda porque esa resistencia suele ser de valores exageradamente grandes, y debido a eso también la Rout se convertirá en corto.
+Estos dispositivos se mueven por medio de una contante, que se lama ganancia (AOL) tiene una relación de:
+Vout=A_OL(V+-V-)
+Hablando de forma ideal como comparador su ganancia es infinita, lo que hace es ver cual voltaje es el mas alto en las terminales v+/- si v+ es mayor entonces se cortocircuita Vs+ con la salida, caso contrario Vs- será el que hará corto.
 
-“La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Explica que la suma de todas las intensidades en un nodo especifico es igual a 0
-
-Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalmente lo contrario uno del otro, ergo, la bobina en corriente DC solo es un cortocircuito a diferencia que en AC donde con esta característica genera un campo electromagnético y empieza a generar una resistencia la corriente, su medida son los henrios, al igual que los capacitores se puede transformar a reactancia para mejor calculo con la fórmula :X_l=jwL donde j es muestra de numero complejo, w la frecuencia en rads/seg L en henrios, medido en ohmios. Además, si se mantiene en el dominio del tiempo, se puede calcular su voltaje de la siguiente forma: v=L ∂i/∂t
-
+En el circuito de un amplificador 741 se tiene un complejo sistema.
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/bo.PNG"
-          alt="Bobinas"
+        <img src="img/ca.PNG"
+          alt="Capacitores"
           height="300"
           style ="float-left ml-4"
         />           
    </div>
    </section>
+
 
 
 
@@ -109,6 +120,23 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
         />           
    </div>
    </section>
+   
+   
+   **Amplificadores Operacionales.**
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/0.0.PNG"
+          alt="Protoboard"
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
+   
+   
+   
+   
    
 ## **PROCEDIMIENTO**
 
