@@ -178,7 +178,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama3.PNG"
           alt="Protoboard con multiples resistencias"
-          height="800"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -190,7 +190,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama4.PNG"
           alt="Protoboard con multiples resistencias"
-          height="3000"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -200,7 +200,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama5.PNG"
           alt="Protoboard con multiples resistencias"
-          height="800"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -211,7 +211,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama6.PNG"
           alt="Protoboard con Amperimetros"
-          height="3000"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -221,7 +221,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama8.PNG"
           alt="Protoboard con Amperimetros"
-          height="3000"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -232,7 +232,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama9.PNG"
           alt="Protoboard con Amperimetros"
-          height="3000"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -242,7 +242,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/diagrama10.PNG"
           alt="Protoboard con Amperimetros"
-          height="3000"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
