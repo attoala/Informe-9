@@ -273,7 +273,7 @@ operacionales.**
       <div class="container mt-5 mb-5">
         <img src="img/materiales.PNG"
           alt="LISTA DE COMPONENTES"
-          height="250"
+          height="400"
           style ="float-left ml-4"
         />           
    </div>
