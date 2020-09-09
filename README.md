@@ -123,41 +123,13 @@ circuitos indicados en la figura 1.
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/c1.PNG"
+        <img src="img/diagramas.PNG"
           alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
         />           
    </div>
    </section> 
-
-
-***Tabla 1.1. Resultados obtenidos de voltaje y corriente, del circuito 1.***
-
-
-| | |Multímetro|Multímetro| | |
-|---------|---------|---------|---------|-----|-----|
-| **Frecuencia[Hz]**|**Osciloscopio**|**Voltaje**|**Intensidad**|**X**|**Ceq**|
-|**0[Hz]**   |0[V]   |0[V]       |0[A]      |0[Ω]     |20µF|
-|**10[Hz]**  |9.84[V]|7.012[V]   |8.926[mA] |701.2[Ω] |
-|**50[Hz]**  |8.4[V] |5.93[V]    |37.749[mA]|148.25[Ω]|
-|**100[Hz]** |6.09[V]|4.314[V]   |54.923[mA]|86.28[Ω] |
-|**500[Hz]** |1.55[V]|1.076[V]   |68.513[mA]|15.37[Ω] |
-|**1000[Hz]**|781[mV]|542.947[mV]|69.119[mA]|7.85[mΩ] |
-
-
-***Tabla 1.2. Resultados obtenidos de voltaje y corriente, del circuito 2.***
-
-
-| | |Multímetro|Multímetro| | |
-|---------|---------|---------|---------|-----|-----|
-| **Frecuencia[Hz]**|**Osciloscopio**|**Voltaje**|**Intensidad**|**X**|**Leq**|
-|**0[Hz]**   |0[V]   |0[V]       |0[A]      |0[Ω]      |50mH|
-|**10[Hz]**  |317[mV]|220.52[mV] |69.29 [mA]|3.18[mΩ]  |
-|**50[Hz]**  |1.56[V]|1.09[V]    |68.495[mA]|15.57[Ω]  |
-|**100[Hz]** |3.01[V]|2.106[V]   |66.177[mA]|30.08[Ω]  |
-|**500[Hz]** |8.45[V]|5.953[V]   |37.409[mA]|148.82[Ω] |
-|**1000[Hz]**|9.36[V]|6.734[V]   |21.157[mA]|336.7[Ω]  |
 
 
 **8.4 Análisis de resultados**
