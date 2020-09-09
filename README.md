@@ -258,7 +258,7 @@ Conectar bien los aparatos de medición puede tener riesgo de electrocutarse.
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/1.PNG"
+        <img src="img/cronograma.PNG"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
