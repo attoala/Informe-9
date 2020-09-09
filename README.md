@@ -155,7 +155,7 @@ operacionales.**
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/d.PNG"
+        <img src="img/diagrama1.PNG"
           alt="Protoboard con multiples resistencias"
           height="300"
           style ="float-left ml-4"
@@ -166,7 +166,7 @@ operacionales.**
    
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/d1.PNG"
+        <img src="img/diagrama2.PNG"
           alt="Protoboard con multiples resistencias"
           height="300"
           style ="float-left ml-4"
@@ -176,7 +176,7 @@ operacionales.**
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/lab81.jpg"
+        <img src="img/diagrama3.PNG"
           alt="Protoboard con multiples resistencias"
           height="800"
           style ="float-left ml-4"
@@ -188,7 +188,7 @@ operacionales.**
    
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/lab82.jpg"
+        <img src="img/diagrama4.PNG"
           alt="Protoboard con multiples resistencias"
           height="3000"
           style ="float-left ml-4"
@@ -198,7 +198,7 @@ operacionales.**
    
   </section>
       <div class="container mt-5 mb-5">
-        <img src="img/lab84.jpg"
+        <img src="img/diagrama5.PNG"
           alt="Protoboard con multiples resistencias"
           height="800"
           style ="float-left ml-4"
@@ -209,13 +209,53 @@ operacionales.**
  
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/lab83.jpg"
+        <img src="img/diagrama6.PNG"
           alt="Protoboard con Amperimetros"
           height="3000"
           style ="float-left ml-4"
         />           
    </div>
-   </section>                                                               
+   </section>    
+   
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/diagrama8.PNG"
+          alt="Protoboard con Amperimetros"
+          height="3000"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>    
+   
+   
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/diagrama9.PNG"
+          alt="Protoboard con Amperimetros"
+          height="3000"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>    
+   
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/diagrama10.PNG"
+          alt="Protoboard con Amperimetros"
+          height="3000"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>    
+   
+   
+   
+   
+   
+   
+   
+   
+   
                                   
    
 ## **LISTA DE COMPONENTES**
